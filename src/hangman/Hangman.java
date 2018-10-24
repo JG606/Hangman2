@@ -10,7 +10,7 @@ public class Hangman {
     public Hangman() {
       
     }
-                               
+    //test commit                           
     public static void main(String[] args) {
 
         Scanner reader = new Scanner(System.in);
